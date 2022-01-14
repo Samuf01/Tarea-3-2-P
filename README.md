@@ -9,6 +9,9 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
   
 2. Marco Teórico 
 
+![image](https://user-images.githubusercontent.com/94079321/149552628-d89c5d3b-ec52-4c3b-ba1d-cb491e907b88.png)
+
+
 3. Resolución Unidad 11
 
 SECCIÓN 11–1 La forma de onda sinusoidal 
