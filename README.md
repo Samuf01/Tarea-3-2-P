@@ -236,30 +236,42 @@ SECCIÓN 12–4 Capacitores en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/149524373-5e843dae-770a-4079-98c4-41bf8a4e6ec8.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149562074-c2cec760-5d33-4e54-aadc-6da18f55359a.png)
+
 SECCIÓN 12–5 Capacitores en circuitos de cd
 
 31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
 
               (a) R = 56 Æ, C = 47 mF     (b) R = 3300 Æ, C = 0.015 mF
               (c) R = 22 kÆ, C = 100 pF   (d) R = 5.6 MÆ, C = 10 pF
-              
+ 
+ ![image](https://user-images.githubusercontent.com/94079321/149562111-729cdcb4-c885-4cca-bce5-96f3ce6b23ad.png)
+
 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 
                   (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
 
 ![image](https://user-images.githubusercontent.com/94079321/149525164-477fef90-e0e7-4d75-ba5d-c1d3fb1a3184.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149562145-dd31813c-d039-4b41-acff-446f7bcae094.png)
+
 35. Repita el problema 33 con los siguientes tiempos:
  
                     (a) 0.5 ms (b) 1 ms (c) 2 ms
+
+![image](https://user-images.githubusercontent.com/94079321/149562176-7bb1d949-a6ad-43ca-afa1-9344a941c8d6.png)
 
 37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
 ![image](https://user-images.githubusercontent.com/94079321/149525395-5ec9f389-6ef1-4986-ad7e-a054653253a2.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149562202-12496259-cb6b-47d5-9f82-3ac5a73b570a.png)
+
 39. Determine la constante de tiempo para el circuito de la figura 12-77.
 
 ![image](https://user-images.githubusercontent.com/94079321/149525436-26b93911-ec89-4d7b-9258-d0c18db1f7df.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149562229-716c771d-bb34-4156-bbc5-b20f312ad642.png)
 
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 
