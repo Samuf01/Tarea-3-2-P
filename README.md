@@ -164,7 +164,9 @@ SECCIÓN 12–4 Capacitores en paralelo
 ![image](https://user-images.githubusercontent.com/94079321/149524319-c53d5c10-5789-46e9-8397-4ee3b00e78e4.png)
 
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+
 (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
+
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
 
 ![image](https://user-images.githubusercontent.com/94079321/149524373-5e843dae-770a-4079-98c4-41bf8a4e6ec8.png)
@@ -195,6 +197,7 @@ SECCIÓN 12–5 Capacitores en circuitos de cd
 ![image](https://user-images.githubusercontent.com/94079321/149525436-26b93911-ec89-4d7b-9258-d0c18db1f7df.png)
 
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
 (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
 ![image](https://user-images.githubusercontent.com/94079321/149525460-26a6cbd1-2bce-4346-8fc0-22c2d247bb5c.png)
