@@ -17,29 +17,47 @@ SECCIÓN 11–1 La forma de onda sinusoidal
 
         (a) 1 s   (b) 0.2 s   (c) 50 ms   (d) 1 ms    (e) 500 μs    (f) 10 μs
         
+![image](https://user-images.githubusercontent.com/94079321/149542339-c3a463d3-f259-42e7-9e50-6ad1dc297214.png)
+
 3. Una onda seno realiza 5 ciclos en 10 μs. ¿Cuál es su periodo?
 
-SECCIÓN 11–2 Fuentes de voltaje sinusoidal
+![image](https://user-images.githubusercontent.com/94079321/149542413-213e9cf6-f61d-4f45-a1f6-43b48f4979d8.png)
+
+SECCIÓN 11–2 Fuentes de tensión sinusoidal
 
 5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
 
-7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+![image](https://user-images.githubusercontent.com/94079321/149542462-2b9f71e5-d0e2-4b2b-ac2e-14c420c9e8c9.png)
+
+7. ¿A qué velocidad de rotación debe ser operador un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+![image](https://user-images.githubusercontent.com/94079321/149542520-20ed153f-361f-4508-99e3-d147c7aa70f7.png)
 
 SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 
 9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
 
           (a) pico (b) promedio (c) pico a pico
-          
+
+![image](https://user-images.githubusercontent.com/94079321/149542715-064122d9-3107-46fe-b436-14c0fea0782f.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149542750-ac66ec6e-4fcd-4ceb-8a8f-8f8d0d28599e.png)
+
 SECCIÓN 11–4 Medición angular de una onda seno
 
 11. Transforme los siguientes valores angulares de grados a radianes:
 
                           (a) 30°   (b) 45°    (c) 78°    (d) 135°     (e)  200°     (f) 300°
-                          
-13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
+
+![image](https://user-images.githubusercontent.com/94079321/149542892-22f9abc8-fe68-4715-b17d-aa595381671a.png)
+
+13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el angulo de fase que hay entre las dos senales. ¿Cuál señal es la que se adelanta?
+
+![image](https://user-images.githubusercontent.com/94079321/149542943-bbe13cb9-df10-493a-bba8-fe9b8449a0a7.png)
 
 15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales. 
+
+![image](https://user-images.githubusercontent.com/94079321/149543043-d3de5e60-26b3-4cef-9605-84c34ffba8a1.png)
 
 SECCIÓN 11–5 La fórmula de la onda seno 
 
@@ -89,17 +107,11 @@ SECCIÓN 11–9 Formas de onda no sinusoidales
 
 ![image](https://user-images.githubusercontent.com/94079321/149519993-9a392a79-c247-4a44-896a-30587e53aa2a.png)
 
-![image](https://user-images.githubusercontent.com/94079321/149541960-9ac9b2ab-c232-4e12-8fb6-34d5f4a7e3cd.png)
-
 39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
 
 ![image](https://user-images.githubusercontent.com/94079321/149520026-f0d92cce-4276-4f88-9d17-6ac95b4dfec4.png)
 
-![image](https://user-images.githubusercontent.com/94079321/149542002-716d6d9d-abbe-4a16-9750-5c67ab6f9316.png)
-
 41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares
-
-![image](https://user-images.githubusercontent.com/94079321/149542031-11d16bf7-c62d-442b-98b4-764396fbfede.png)
 
 SECCIÓN 11–10 El osciloscopio
 
@@ -107,7 +119,9 @@ SECCIÓN 11–10 El osciloscopio
 
 ![image](https://user-images.githubusercontent.com/94079321/149520459-6415634d-fe7a-43c5-9770-cfa7a32eefa7.png)
 
-![image](https://user-images.githubusercontent.com/94079321/149542052-8c7dc4e4-8aa5-4fc8-9cdc-0950842a375c.png)
+45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![image](https://user-images.githubusercontent.com/94079321/149520495-e2d8a639-1661-4794-862f-4894d27ac0f0.png)
 
 4. Resolución Unidad 12
 
@@ -117,43 +131,55 @@ SECCIÓN 12–1 El capacitor básico
 (b) Determine la carga cuando C = 0.001 μF y V = 1 kV.
 (c) Determine el voltaje cuando Q = 2 μC y C = 200 μF.
 
-3. Transforme los siguientes valores de picofarads a microfarads:
+![image](https://user-images.githubusercontent.com/94079321/149544780-4d0c427a-3065-4690-a87e-3f98b80e068b.png)
+
+3. Transforme los siguientes valores de picofaradios a microfaradios:
 
           (a) 1000 pF (b) 3500 pF (c) 250 pF
-          
+      
+![image](https://user-images.githubusercontent.com/94079321/149544828-9bf9ed5f-904c-4e84-96c6-281be94bcbed.png)
+
 5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/94079321/149544857-03e94082-c19a-40ac-a548-d0992f047d09.png)
 
 7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
 
-           (a) aire (b) aceite (c) vidrio (d) Teflón® 
-           
-![image](https://user-images.githubusercontent.com/94079321/149524058-17d69f42-2380-4b36-bef0-044dbda6479c.png)
+           (a) aire (b) aceite (c) vidrio (d) Teflón®       
+ 
+ ![image](https://user-images.githubusercontent.com/94079321/149544924-6df6c8f8-bced-4a1e-9338-96d89bed3c59.png)
 
-9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10^4 m. Calcule la capacitancia.  
+9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4,5 x 10^4 m. Calcule la capacitancia.  
 
-11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
+![image](https://user-images.githubusercontent.com/94079321/149545007-d153650d-15dc-4c3b-b4c1-b467a71b67a1.png)
 
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separe las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
 
-13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+![image](https://user-images.githubusercontent.com/94079321/149545058-f604bd26-ac07-486e-bfc4-adf071233b46.png)
 
+13. Un capacitor de 0.001 mF tiene un coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+Se sabe que un coeficiente de temperatura indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura. Por lo que al tener el capacitor una temperatura positiva de 500 ppm/°C significa que la capacitancia se incrementa con una elevación de la temperatura o disminuye con un descenso de ésta. Es decir, si aumenta la temperatura en 25°C, la capacitancia se incrementa.
 
 SECCIÓN 12–2 Tipos de capacitores
 
 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
 
+El capacitor que tiene una constante dieléctrica más alta es el de cerámica ya que proporciona un valor típico de 1200, mientras que la de mica tan solo proporciona un valor típico de 5.
 
 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
 
+Electrolitos de aluminio con conductores axiales o radiales y electrolitos de tantalio de forma tubular o gota. Los capacitores electrolíticos difieren en que mientras otros capacitores utilizan dos placas similares, el capacitor electrolítico consta de una placa de hoja de aluminio y de otra placa elaborada a partir de un electrolito conductor aplicado a determinado material, tal como película plástica. Estas dos “placas” están separadas por una capa de óxido de aluminio depositada sobre la superficie de la placa de aluminio.
 
 19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68
 
-![image](https://user-images.githubusercontent.com/94079321/149524213-b42a7a02-7f65-4e16-a45f-4e2f96563b7c.png)
+![image](https://user-images.githubusercontent.com/94079321/149545144-9e023dd7-c459-4981-9c35-e612071c93b2.png)
 
-SECCIÓN 12–3 Capacitores en serie
+El capacitor a) tiene un valor de 0.022 mili faradios, el capacitor b) tiene un valor de 0.047 faradios, el capacitor c) tiene un valor de 0.001micro faradios y por último el capacitor d) tiene un valor de 220 faradios
+
+SECCIÓN 12–3 Condensadores en serie
 
 21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69. 
-
-![image](https://user-images.githubusercontent.com/94079321/149524238-4155bd01-5fe3-4367-b677-3bf4ceb58eb4.png)
 
 23. Dos capacitores en serie (uno de 1 μF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 μF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
@@ -161,19 +187,11 @@ SECCIÓN 12–4 Capacitores en paralelo
 
 25. Determine la CT para cada circuito de la figura 12-71. 
 
-![image](https://user-images.githubusercontent.com/94079321/149524289-14124951-f5fa-42f5-9165-bfaa392ef825.png)
-
 27. Determine la CT para cada circuito de la figura 12-72. 
 
-![image](https://user-images.githubusercontent.com/94079321/149524319-c53d5c10-5789-46e9-8397-4ee3b00e78e4.png)
-
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
-
 (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
-
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
-
-![image](https://user-images.githubusercontent.com/94079321/149524373-5e843dae-770a-4079-98c4-41bf8a4e6ec8.png)
 
 SECCIÓN 12–5 Capacitores en circuitos de cd
 
@@ -185,32 +203,21 @@ SECCIÓN 12–5 Capacitores en circuitos de cd
 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 
                   (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
-
-![image](https://user-images.githubusercontent.com/94079321/149525164-477fef90-e0e7-4d75-ba5d-c1d3fb1a3184.png)
-
+                  
 35. Repita el problema 33 con los siguientes tiempos:
  
                     (a) 0.5 ms (b) 1 ms (c) 2 ms
 
 37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
-![image](https://user-images.githubusercontent.com/94079321/149525395-5ec9f389-6ef1-4986-ad7e-a054653253a2.png)
-
 39. Determine la constante de tiempo para el circuito de la figura 12-77.
 
-![image](https://user-images.githubusercontent.com/94079321/149525436-26b93911-ec89-4d7b-9258-d0c18db1f7df.png)
-
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
-
 (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
-
-![image](https://user-images.githubusercontent.com/94079321/149525460-26a6cbd1-2bce-4346-8fc0-22c2d247bb5c.png)
 
 SECCIÓN 12–6 Capacitores en circuitos de ca
 
 43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso. 
-
-![image](https://user-images.githubusercontent.com/94079321/149525514-9a19b711-c758-4ab6-bbd8-99b102d55e7a.png)
 
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
 
@@ -218,13 +225,9 @@ SECCIÓN 12–6 Capacitores en circuitos de ca
 
 49. Determine el valor de C1 en la figura 12-82.
 
-![image](https://user-images.githubusercontent.com/94079321/149525557-013d5388-390c-44ed-8dea-1039754ebe63.png)
-
 SECCIÓN 12–7 Aplicaciones de los capacitores 
 
 51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
-
-![image](https://user-images.githubusercontent.com/94079321/149525588-830d0a64-8739-4a55-bfbe-975fb955b0cb.png)
 
 SECCIÓN 12–8 Circuitos de capacitor conmutado
 
