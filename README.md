@@ -74,10 +74,16 @@ SECCIÓN 11–5 La fórmula de la onda seno
 17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor instantáneo en cada uno de los siguientes puntos:
 
         (a) 35°     (b) 95°     (c) 190°      (d) 215°      (e) 275°      (f) 360°
-        
+
+![image](https://user-images.githubusercontent.com/94079321/149557323-fca4aa98-feb9-4189-ab15-f91add00efba.png) 
+  
 19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°. 
 
+![image](https://user-images.githubusercontent.com/94079321/149557356-1b3d8836-1b42-4ec7-9ed6-a775687baf40.png)
+
 21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
+
+![image](https://user-images.githubusercontent.com/94079321/149557391-bfa05ddb-b0b3-4a8b-938a-29f0e4222adf.png)
 
 SECCIÓN 11–6 Introducción a los fasores
 
@@ -85,11 +91,15 @@ SECCIÓN 11–6 Introducción a los fasores
 
 ![image](https://user-images.githubusercontent.com/94079321/149521167-444c472d-124a-4186-b517-0386b6349fb1.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149557421-0538ca3a-17cb-457f-a5fa-7ee84c065c35.png)
+
 25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
         (a) 30 μs     (b) 75 μs     (c) 125 μs
         
 ![image](https://user-images.githubusercontent.com/94079321/149521109-15718c1b-2f5c-4772-adf7-0322cdcbd2e2.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149557455-b28e6a3d-4d74-4b89-a3c1-ddadf94ee743.png)
 
 SECCIÓN 11–7 Análisis de circuitos de ca
 
@@ -97,11 +107,17 @@ SECCIÓN 11–7 Análisis de circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/94079321/149521209-b88cb06f-74c1-4e03-8af0-1ab53fe69d88.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149557491-0d44ef17-1f04-4580-81de-7e1b65501b3e.png)
+
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
 29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?
 
+![image](https://user-images.githubusercontent.com/94079321/149557523-c4026a54-3e54-47d4-8b46-813b71a7ae73.png)
+
 31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?
+
+![image](https://user-images.githubusercontent.com/94079321/149557550-e2801144-aaef-41ac-bc95-1afff8936e2f.png)
 
 SECCIÓN 11–9 Formas de onda no sinusoidales
 
@@ -286,3 +302,5 @@ Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearso
 Ucha, F. (13 de Noviembre de 2012). Obtenido de https://www.definicionabc.com/ciencia/corriente-alterna.php
 
 8. Vídeo
+
+https://youtu.be/pBQDVbNPmes
