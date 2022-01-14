@@ -138,11 +138,17 @@ SECCIÓN 12–1 El capacitor básico
 (b) Determine la carga cuando C = 0.001 μF y V = 1 kV.
 (c) Determine el voltaje cuando Q = 2 μC y C = 200 μF.
 
-3. Transforme los siguientes valores de picofarads a microfarads:
+![image](https://user-images.githubusercontent.com/94079321/149554874-f29436e0-6a12-4152-aebe-a09a45f3e9a4.png)
+
+3. Transforme los siguientes valores de picofaradios a microfaradios:
 
           (a) 1000 pF (b) 3500 pF (c) 250 pF
-          
+
+![image](https://user-images.githubusercontent.com/94079321/149554911-a1fbf50a-45e8-4ff2-b4e2-5a9eabc10542.png)
+
 5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/94079321/149554938-bc648364-1622-449a-b1bf-2630d69315f1.png)
 
 7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
 
@@ -150,25 +156,35 @@ SECCIÓN 12–1 El capacitor básico
            
 ![image](https://user-images.githubusercontent.com/94079321/149524058-17d69f42-2380-4b36-bef0-044dbda6479c.png)
 
-9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10^4 m. Calcule la capacitancia.  
+![image](https://user-images.githubusercontent.com/94079321/149555109-6c3159ac-3871-452d-b87a-65bc3fe702b2.png)
 
-11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
+9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4,5 x 10^4 m. Calcule la capacitancia.  
 
+![image](https://user-images.githubusercontent.com/94079321/149555151-93cd066d-7200-49ab-b705-8352f0f5d8a2.png)
+
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separe las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
+
+![image](https://user-images.githubusercontent.com/94079321/149555263-81ddeade-8916-4494-8ed9-efcf63aea645.png)
 
 13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
 
+Se sabe que un coeficiente de temperatura indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura. Por lo que al tener el capacitor una temperatura positiva de 500 ppm/°C significa que la capacitancia se incrementa con una elevación de la temperatura o disminuye con un descenso de ésta. Es decir, si aumenta la temperatura en 25°C, la capacitancia se incremen.
 
 SECCIÓN 12–2 Tipos de capacitores
 
 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
 
+El capacitor que tiene una constante dieléctrica más alta es el de cerámica ya que proporciona un valor típico de 1200, mientras que la de mica tan solo proporciona un valor típico de 5.
 
 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
 
+Electrolitos de aluminio con conductores axiales o radiales y electrolitos de tantalio de forma tubular o gota. Los capacitores electrolíticos difieren en que mientras otros capacitores utilizan dos placas similares, el capacitor electrolítico consta de una placa de hoja de aluminio y de otra placa elaborada a partir de un electrolito conductor aplicado a determinado material, tal como película plástica. Estas dos “placas” están separadas por una capa de óxido de aluminio depositada sobre la superficie de la placa de aluminio.
 
 19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68
 
 ![image](https://user-images.githubusercontent.com/94079321/149524213-b42a7a02-7f65-4e16-a45f-4e2f96563b7c.png)
+
+El capacitor a) tiene un valor de 0.022 mili faradios, el capacitor b) tiene un valor de 0.047 faradios, el capacitor c) tiene un valor de 0.001micro faradios y por último el capacitor d) tiene un valor de 220 faradios.
 
 SECCIÓN 12–3 Capacitores en serie
 
