@@ -184,18 +184,23 @@ SECCIÓN 12–1 El capacitor básico
 
 13. Un capacitor de 0.001 mF tiene un coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
 
+Se sabe que un coeficiente de temperatura indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura. Por lo que al tener el capacitor una temperatura positiva de 500 ppm/°C significa que la capacitancia se incrementa con una elevación de la temperatura o disminuye con un descenso de ésta. Es decir, si aumenta la temperatura en 25°C, la capacitancia se incrementa.
 
 SECCIÓN 12–2 Tipos de capacitores
 
 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
 
+El capacitor que tiene una constante dieléctrica más alta es el de cerámica ya que proporciona un valor típico de 1200, mientras que la de mica tan solo proporciona un valor típico de 5
 
 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
 
+Electrolitos de aluminio con conductores axiales o radiales y electrolitos de tantalio de forma tubular o gota. Los capacitores electrolíticos difieren en que mientras otros capacitores utilizan dos placas similares, el capacitor electrolítico consta de una placa de hoja de aluminio y de otra placa elaborada a partir de un electrolito conductor aplicado a determinado material, tal como película plástica. Estas dos “placas” están separadas por una capa de óxido de aluminio depositada sobre la superficie de la placa de aluminio.
 
 19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68
 
 ![image](https://user-images.githubusercontent.com/94079321/149524213-b42a7a02-7f65-4e16-a45f-4e2f96563b7c.png)
+
+El capacitor a) tiene un valor de 0.022 mili faradios, el capacitor b) tiene un valor de 0.047 faradios, el capacitor c) tiene un valor de 0.001micro faradios y por último el capacitor d) tiene un valor de 220 faradios.
 
 SECCIÓN 12–3 Capacitores en serie
 
