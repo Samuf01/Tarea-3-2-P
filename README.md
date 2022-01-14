@@ -1,13 +1,9 @@
 # INFORME TAREA 3 SEGUNDO PARCIAL
-                                         
-                                         UNIVERCIDAD DE LAS FUERZAS ARMADAS "ESPE"       
 
 Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1. Objetivos
-
-  1.1  Objetivo General 
-  
+  1.1 Objetivo General
   
   1.2 Objetivo Especifico
   
@@ -59,13 +55,19 @@ SECCIÓN 11–6 Introducción a los fasores
 
 23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
 
+![image](https://user-images.githubusercontent.com/94079321/149521167-444c472d-124a-4186-b517-0386b6349fb1.png)
+
 25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
         (a) 30 μs     (b) 75 μs     (c) 125 μs
         
+![image](https://user-images.githubusercontent.com/94079321/149521109-15718c1b-2f5c-4772-adf7-0322cdcbd2e2.png)
+
 SECCIÓN 11–7 Análisis de circuitos de ca
 
 27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms. 
+
+![image](https://user-images.githubusercontent.com/94079321/149521209-b88cb06f-74c1-4e03-8af0-1ab53fe69d88.png)
 
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
@@ -77,11 +79,19 @@ SECCIÓN 11–9 Formas de onda no sinusoidales
 
 33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud
 
+![image](https://user-images.githubusercontent.com/94079321/149519949-12d414cf-77a6-487d-bbc9-2531c5aba6e9.png)
+
 35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85
+
+![image](https://user-images.githubusercontent.com/94079321/149519966-d0569525-c2cc-4492-b729-ee9c14bc6f3e.png)
 
 37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
 
+![image](https://user-images.githubusercontent.com/94079321/149519993-9a392a79-c247-4a44-896a-30587e53aa2a.png)
+
 39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+
+![image](https://user-images.githubusercontent.com/94079321/149520026-f0d92cce-4276-4f88-9d17-6ac95b4dfec4.png)
 
 41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares
 
@@ -89,7 +99,11 @@ SECCIÓN 11–10 El osciloscopio
 
 43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
 
+![image](https://user-images.githubusercontent.com/94079321/149520459-6415634d-fe7a-43c5-9770-cfa7a32eefa7.png)
+
 45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![image](https://user-images.githubusercontent.com/94079321/149520495-e2d8a639-1661-4794-862f-4894d27ac0f0.png)
 
 4. Resolución Unidad 12
 
