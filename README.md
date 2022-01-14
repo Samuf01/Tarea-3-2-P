@@ -18,6 +18,7 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 ![image](https://user-images.githubusercontent.com/94079321/149552628-d89c5d3b-ec52-4c3b-ba1d-cb491e907b88.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149560099-9db4a595-e58a-4293-ba1b-ec8477acfbb2.png)
 
 3. Resolución Unidad 11
 
