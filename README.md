@@ -154,11 +154,17 @@ SECCIÓN 12–1 El capacitor básico
 (b) Determine la carga cuando C = 0.001 μF y V = 1 kV.
 (c) Determine el voltaje cuando Q = 2 μC y C = 200 μF.
 
-3. Transforme los siguientes valores de picofarads a microfarads:
+![image](https://user-images.githubusercontent.com/94079321/149560736-b57e2482-67d8-4680-9286-6b0b3093d352.png)
+
+3. Transforme los siguientes valores de picofaradios a microfaradios:
 
           (a) 1000 pF (b) 3500 pF (c) 250 pF
-          
+
+![image](https://user-images.githubusercontent.com/94079321/149560768-29132ca5-d054-4e94-a73e-5ef39e3bf282.png)
+
 5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/94079321/149560790-77ac767d-9b81-418e-b066-7841dafb6b42.png)
 
 7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
 
@@ -166,12 +172,17 @@ SECCIÓN 12–1 El capacitor básico
            
 ![image](https://user-images.githubusercontent.com/94079321/149524058-17d69f42-2380-4b36-bef0-044dbda6479c.png)
 
-9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10^4 m. Calcule la capacitancia.  
+![image](https://user-images.githubusercontent.com/94079321/149560908-6c752bf4-8da0-44bc-93eb-36fe3107b3b8.png)
 
-11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
+9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4,5 x 10^4 m. Calcule la capacitancia.  
 
+![image](https://user-images.githubusercontent.com/94079321/149560866-25ae897c-5e7b-4ed3-b4c7-cb2e4805720a.png)
 
-13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separe las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
+
+![image](https://user-images.githubusercontent.com/94079321/149560965-adffa74b-3095-4aee-a048-9109662f3973.png)
+
+13. Un capacitor de 0.001 mF tiene un coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
 
 
 SECCIÓN 12–2 Tipos de capacitores
