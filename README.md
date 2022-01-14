@@ -19,30 +19,48 @@ SECCIÓN 11–1 La forma de onda sinusoidal
 1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
 
         (a) 1 s   (b) 0.2 s   (c) 50 ms   (d) 1 ms    (e) 500 μs    (f) 10 μs
-        
+
+![image](https://user-images.githubusercontent.com/94079321/149553548-653e0f65-26a0-4ce3-88b7-4382f9b72e53.png)
+
 3. Una onda seno realiza 5 ciclos en 10 μs. ¿Cuál es su periodo?
+
+![image](https://user-images.githubusercontent.com/94079321/149553838-f23406e2-ea15-4b92-b18b-79fbd0425cd8.png)
 
 SECCIÓN 11–2 Fuentes de voltaje sinusoidal
 
 5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
 
-7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+![image](https://user-images.githubusercontent.com/94079321/149553870-c9426ffd-984a-4905-928f-950d7905ff57.png)
+
+7. ¿A qué velocidad de rotación debe ser operador un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+![image](https://user-images.githubusercontent.com/94079321/149553909-8f0f1c63-01b0-4e3d-b7dd-c3b5cfc8b298.png)
 
 SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 
 9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
 
           (a) pico (b) promedio (c) pico a pico
-          
+
+![image](https://user-images.githubusercontent.com/94079321/149553969-a9f2f5ff-c376-4887-8f59-f8fb54f31594.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149554004-94eb80e8-370e-464e-a63d-0cc4a5a19443.png)
+
 SECCIÓN 11–4 Medición angular de una onda seno
 
 11. Transforme los siguientes valores angulares de grados a radianes:
 
                           (a) 30°   (b) 45°    (c) 78°    (d) 135°     (e)  200°     (f) 300°
-                          
-13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
 
-15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales. 
+![image](https://user-images.githubusercontent.com/94079321/149554059-22e6ce8e-e4b7-4082-8762-b6a5d38d8922.png)
+
+13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el angulo de fase que hay entre las dos senales. ¿Cuál señal es la que se adelanta?
+
+![image](https://user-images.githubusercontent.com/94079321/149554104-10330273-03c1-4b82-b94c-d0b3860a3410.png)
+
+15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
+
+![image](https://user-images.githubusercontent.com/94079321/149554171-14d5253f-4b84-41cc-af8d-e607fc5dd5e5.png)
 
 SECCIÓN 11–5 La fórmula de la onda seno 
 
