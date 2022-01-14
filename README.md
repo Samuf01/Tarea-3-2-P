@@ -191,7 +191,11 @@ SECCIÓN 12–3 Capacitores en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/149524238-4155bd01-5fe3-4367-b677-3bf4ceb58eb4.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149559154-ee1ac811-ad76-4c52-84d8-6737f1ad4143.png)
+
 23. Dos capacitores en serie (uno de 1 μF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 μF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+![image](https://user-images.githubusercontent.com/94079321/149559188-18d933f3-01af-482b-909c-9c815eff3ed4.png)
 
 SECCIÓN 12–4 Capacitores en paralelo
 
@@ -199,9 +203,13 @@ SECCIÓN 12–4 Capacitores en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/149524289-14124951-f5fa-42f5-9165-bfaa392ef825.png)
 
+![image](https://user-images.githubusercontent.com/94079321/149559214-c8e81c7b-ebfc-4085-aa3d-a729e96da3af.png)
+
 27. Determine la CT para cada circuito de la figura 12-72. 
 
 ![image](https://user-images.githubusercontent.com/94079321/149524319-c53d5c10-5789-46e9-8397-4ee3b00e78e4.png)
+
+![image](https://user-images.githubusercontent.com/94079321/149559242-69420826-4902-4092-a425-fd7f02b188b2.png)
 
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 
