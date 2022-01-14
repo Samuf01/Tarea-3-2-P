@@ -121,25 +121,35 @@ SECCIÓN 12–1 El capacitor básico
 
 7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
 
-           (a) aire (b) aceite (c) vidrio (d) Teflón®       
+           (a) aire (b) aceite (c) vidrio (d) Teflón® 
            
+![image](https://user-images.githubusercontent.com/94079321/149524058-17d69f42-2380-4b36-bef0-044dbda6479c.png)
+
 9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10^4 m. Calcule la capacitancia.  
 
 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?   
 
+
 13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
 
 SECCIÓN 12–2 Tipos de capacitores
 
 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
 
+
 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
 
+
 19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68
+
+![image](https://user-images.githubusercontent.com/94079321/149524213-b42a7a02-7f65-4e16-a45f-4e2f96563b7c.png)
 
 SECCIÓN 12–3 Capacitores en serie
 
 21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69. 
+
+![image](https://user-images.githubusercontent.com/94079321/149524238-4155bd01-5fe3-4367-b677-3bf4ceb58eb4.png)
 
 23. Dos capacitores en serie (uno de 1 μF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 μF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
@@ -147,11 +157,17 @@ SECCIÓN 12–4 Capacitores en paralelo
 
 25. Determine la CT para cada circuito de la figura 12-71. 
 
+![image](https://user-images.githubusercontent.com/94079321/149524289-14124951-f5fa-42f5-9165-bfaa392ef825.png)
+
 27. Determine la CT para cada circuito de la figura 12-72. 
+
+![image](https://user-images.githubusercontent.com/94079321/149524319-c53d5c10-5789-46e9-8397-4ee3b00e78e4.png)
 
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+![image](https://user-images.githubusercontent.com/94079321/149524373-5e843dae-770a-4079-98c4-41bf8a4e6ec8.png)
 
 SECCIÓN 12–5 Capacitores en circuitos de cd
 
@@ -163,21 +179,31 @@ SECCIÓN 12–5 Capacitores en circuitos de cd
 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 
                   (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
-                  
+
+![image](https://user-images.githubusercontent.com/94079321/149525164-477fef90-e0e7-4d75-ba5d-c1d3fb1a3184.png)
+
 35. Repita el problema 33 con los siguientes tiempos:
  
                     (a) 0.5 ms (b) 1 ms (c) 2 ms
 
 37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
+![image](https://user-images.githubusercontent.com/94079321/149525395-5ec9f389-6ef1-4986-ad7e-a054653253a2.png)
+
 39. Determine la constante de tiempo para el circuito de la figura 12-77.
+
+![image](https://user-images.githubusercontent.com/94079321/149525436-26b93911-ec89-4d7b-9258-d0c18db1f7df.png)
 
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
+![image](https://user-images.githubusercontent.com/94079321/149525460-26a6cbd1-2bce-4346-8fc0-22c2d247bb5c.png)
+
 SECCIÓN 12–6 Capacitores en circuitos de ca
 
 43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso. 
+
+![image](https://user-images.githubusercontent.com/94079321/149525514-9a19b711-c758-4ab6-bbd8-99b102d55e7a.png)
 
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
 
@@ -185,9 +211,13 @@ SECCIÓN 12–6 Capacitores en circuitos de ca
 
 49. Determine el valor de C1 en la figura 12-82.
 
+![image](https://user-images.githubusercontent.com/94079321/149525557-013d5388-390c-44ed-8dea-1039754ebe63.png)
+
 SECCIÓN 12–7 Aplicaciones de los capacitores 
 
 51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+![image](https://user-images.githubusercontent.com/94079321/149525588-830d0a64-8739-4a55-bfbe-975fb955b0cb.png)
 
 SECCIÓN 12–8 Circuitos de capacitor conmutado
 
