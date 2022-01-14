@@ -121,33 +121,25 @@ SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
 SECCIÓN 11–9 Formas de onda no sinusoidales
 
-33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud
-
-![image](https://user-images.githubusercontent.com/94079321/149519949-12d414cf-77a6-487d-bbc9-2531c5aba6e9.png)
-
-35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85
-
-![image](https://user-images.githubusercontent.com/94079321/149519966-d0569525-c2cc-4492-b729-ee9c14bc6f3e.png)
-
-37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
+33. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
 
 ![image](https://user-images.githubusercontent.com/94079321/149519993-9a392a79-c247-4a44-896a-30587e53aa2a.png)
 
 ![image](https://user-images.githubusercontent.com/94079321/149541960-9ac9b2ab-c232-4e12-8fb6-34d5f4a7e3cd.png)
 
-39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+35. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
 
 ![image](https://user-images.githubusercontent.com/94079321/149520026-f0d92cce-4276-4f88-9d17-6ac95b4dfec4.png)
 
 ![image](https://user-images.githubusercontent.com/94079321/149542002-716d6d9d-abbe-4a16-9750-5c67ab6f9316.png)
 
-41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares
+37. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares
 
 ![image](https://user-images.githubusercontent.com/94079321/149542031-11d16bf7-c62d-442b-98b4-764396fbfede.png)
 
 SECCIÓN 11–10 El osciloscopio
 
-43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
+39. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
 
 ![image](https://user-images.githubusercontent.com/94079321/149520459-6415634d-fe7a-43c5-9770-cfa7a32eefa7.png)
 
